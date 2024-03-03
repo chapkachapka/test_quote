@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>m-036</code>
+			<reason>Test project.</reason>
+		</ignore>
+		<ignore>
+			<code>t-064</code>
+			<reason>Test project..</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>f-002</code>
+			<reason>Test project.</reason>
+		</ignore>
+		<ignore>
+			<code>m-036</code>
+			<reason>Test project..</reason>
+		</ignore>
+	</file>
+	<file path="imprint.xhtml">
+		<ignore>
+			<code>m-036</code>
+			<reason>Test project.</reason>
+		</ignore>
+	</file>
+	<file path="cover.svg">
+		<ignore>
+			<code>m-063</code>
+			<reason>Test project.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
